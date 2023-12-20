@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Data Engineer K"
 title_separator          : "|"
-subtitle                 : "Life is journey"
+subtitle                 : ""
 name                     : "Tae Heun Kim"
 description              : "Data Engineer K"
 url                      : "https://fromknote.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tae Heun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior Data Engineer"
+  bio              : "Life is journey"
   location         : "Toronto, On, Canada"
   email            :
   links:
