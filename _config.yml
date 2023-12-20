@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Date Engineer K"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Fromknote"
-description              : "Date Engineer K"
+title                    : "Data Engineer K"
+title_separator          : "|"
+subtitle                 : #
+name                     : "Tae Heun Kim"
+description              : "Data Engineer K"
 url                      : "https://fromknote.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
